@@ -1,0 +1,30 @@
+table, th, td {
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 110px;
+    text-align: center;
+  }
+html,body,h1,h2,h3,h4,h5,h6 {
+
+font-size: 1000;
+}
+div.a {
+text-indent: 40px;
+}
+.header
+{
+padding: 0 3rem;
+height: 200px;
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: #005eaa69;
+}
+.body{
+    padding:0px;
+    background-color: #C8D0D7;
+}
+.footer{
+    background-color: #66ccff;
+}
