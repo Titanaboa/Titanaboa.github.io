@@ -57,9 +57,7 @@ header {
     float:left;
   }
   
-  .right-picture{
-  
-  }
+
   
   .right-picture > img{
     display: block;
@@ -116,9 +114,6 @@ div.a {
   line-height:20px;
 }
 
-.left-picture{
-
-}
 
 .left-picture > img{
 	display: block;
